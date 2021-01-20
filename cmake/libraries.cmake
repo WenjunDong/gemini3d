@@ -16,7 +16,7 @@ if(CMAKE_VERSION VERSION_LESS 3.19)
   set(h5fortran_tag v3.4.5)
 
   set(hwm14_git https://github.com/space-physics/hwm14.git)
-  set(hwm14_tag 357d5c2)
+  set(hwm14_tag cade327)
 
   set(msis2_zip https://map.nrl.navy.mil/map/pub/nrl/NRLMSIS/NRLMSIS2.0/NRLMSIS2.0.zip)
   set(msis2_sha1 fa817dfee637ec2298a6ec882345d13d0b087a85)
